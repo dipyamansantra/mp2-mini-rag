@@ -1,0 +1,43 @@
+
+  Validating 2 questions from predefined_questions.jsonl…
+
+  ✓ q1_red_headed_league_assistant
+      Q: Who was the assistant working at Jabez Wilson's pawnshop, and what was his real identity?
+      Cited: 01_red_headed_league.txt
+      Expected: 01_red_headed_league.txt
+      Facts matched: 2/5
+      Latency: 2466ms
+
+  ✓ q2_speckled_band_murder_weapon
+      Q: What killed Julia Stoner at Stoke Moran, and how was the method discovered?
+      Cited: 02_speckled_band.txt
+      Expected: 02_speckled_band.txt
+      Facts matched: 4/6
+      Latency: 2343ms
+
+  Source-match: 2/2
+
+  Validating 3 questions from learner_questions.jsonl…
+
+  ✓ q3_red_headed_league_tunnel
+      Q: How did the Red-Headed League scheme help John Clay attempt the bank robbery?
+      Cited: 01_red_headed_league.txt
+      Expected: 01_red_headed_league.txt
+      Facts matched: 3/3
+      Latency: 2400ms
+
+  ✓ q4_blue_carbuncle_goose
+      Q: How did Peterson come to bring Holmes the hat, and what happened to the goose?
+      Cited: 03_blue_carbuncle.txt
+      Expected: 03_blue_carbuncle.txt
+      Facts matched: 3/3
+      Latency: 4347ms
+
+  ✓ q5_scandal_irene_adler
+      Q: What evidence and actions allowed Irene Adler to outwit Holmes, and what did Holmes keep as a reminder of the case?
+      Cited: 05_scandal_in_bohemia.txt
+      Expected: 05_scandal_in_bohemia.txt
+      Facts matched: 3/3
+      Latency: 2481ms
+
+  Source-match: 3/3

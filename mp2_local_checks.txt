@@ -1,0 +1,9 @@
+Local checks completed during packaging (no OpenAI/Qdrant calls):
+- Python syntax compilation: PASS
+- Corpus documents loaded: 5
+- Chunks created: 86
+- Chunk metadata fields: PASS
+- Learner questions parsed: 3
+- Learner questions use 3 different stories: PASS
+
+Live embedding, Qdrant ingestion, answer quality, and validation source-match remain untested until run with valid credentials in Vocareum.
